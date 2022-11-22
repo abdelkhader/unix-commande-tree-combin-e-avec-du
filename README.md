@@ -4,11 +4,7 @@ sous forme d'arbre) et « du » en une seule afin d'obtenir comme résultat :
 
 etudiant@25B:~/cc_unix/ex_II/script$ ./dutree.sh  ~/cc_unix --size(1)
 
-/home/etudiant/cc_unix/ (20K)
-|-- ex_I (4,0K)
-|-- ex_II (8,0K)
-|-- script (4,0K)
-|-- ex_III (4,0K)
+/home/etudiant/cc_unix/ (20K)|-- ex_I (4,0K)|-- ex_II (8,0K)|-- script (4,0K)|-- ex_III (4,0K)
 
 Pour exécuter le fichier, il faut la permisson d'exécution du fichier dutree.sh
 
